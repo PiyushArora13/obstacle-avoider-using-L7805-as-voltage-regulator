@@ -2,7 +2,6 @@
 **L7805 Obstacle Avoider** is a smart ESP32-based robot that navigates autonomously by avoiding obstacles in real-time. Powered by a 12V battery, it uses a Buck-Boost Converter and L7805 Voltage Regulator to ensure clean, stable power for all components, delivering reliable and efficient performance.
 Absolutely! Here's a **long, tempting, and professional README description** for your GitHub project titled:
 
----
 
 # 🚗 obstacle-avoider-using-L7805-as-voltage-regulator
 
@@ -12,7 +11,6 @@ Absolutely! Here's a **long, tempting, and professional README description** for
 
 At its core, the robot is fueled by a **12V battery pack**, and utilizes a **Buck-Boost Converter** along with an **L7805 Voltage Regulator** to deliver **clean, stable 5V power** across all electronic modules. This ensures long-term operational reliability — a crucial requirement for mobile embedded systems.
 
----
 
 ## 🔧 Key Features
 
@@ -31,7 +29,6 @@ At its core, the robot is fueled by a **12V battery pack**, and utilizes a **Buc
 * ⚙️ **Efficient Motion Control**
   Optimized motor driver configuration enables smooth, reliable forward movement and sharp obstacle-avoiding turns.
 
----
 
 ## ⚙️ Hardware Components
 
@@ -46,7 +43,6 @@ At its core, the robot is fueled by a **12V battery pack**, and utilizes a **Buc
 | **Motor Driver (e.g., TB6612)** | Controls wheel motors                           |
 | **Chassis + Wheels**            | Mechanical body and mobility                    |
 
----
 
 ## 🧪 Use Cases
 
@@ -55,7 +51,6 @@ At its core, the robot is fueled by a **12V battery pack**, and utilizes a **Buc
 * 🔋 **Low-Power Robotics Design**
 * 🛠️ **DIY Maker Projects**
 
----
 
 ## 🛠 Future Extensions (Ideas)
 
