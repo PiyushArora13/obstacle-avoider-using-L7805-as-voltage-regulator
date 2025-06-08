@@ -1,7 +1,7 @@
 
 # Obstacle Avoider using L7805 as Voltage Regulator
 
-### Smart Navigation Meets Power Efficiency
+# Smart Navigation Meets Power Efficiency
 
 L7805 Obstacle Avoider is a compact, intelligent obstacle-avoiding robot powered by the ESP32 microcontroller. Designed with a focus on power management and real-time autonomous decision-making, this robot combines smart navigation with a reliable hardware setup.
 
