@@ -1,6 +1,3 @@
-Sure! Here's your cleaned-up, simplified, and slightly more approachable version of the README, with **bold** removed and the **N20 6V 200 RPM motors** added:
-
----
 
 # Obstacle Avoider using L7805 as Voltage Regulator
 
@@ -10,7 +7,7 @@ L7805 Obstacle Avoider is a compact, intelligent obstacle-avoiding robot powered
 
 At its core, the robot runs on a 12V battery pack and uses a Buck-Boost Converter along with an L7805 Voltage Regulator to deliver clean and stable 5V power to all electronic modules. This ensures consistent performance and long-term reliability, especially for mobile robotics projects.
 
----
+
 
 ## 🔧 Key Features
 
@@ -20,7 +17,7 @@ At its core, the robot runs on a 12V battery pack and uses a Buck-Boost Converte
 * Servo motor for directional control and sensing
 * Smooth motion control using motor driver and N20 gear motors
 
----
+
 
 ## ⚙️ Hardware Components
 
@@ -36,7 +33,7 @@ At its core, the robot runs on a 12V battery pack and uses a Buck-Boost Converte
 | N20 6V 200 RPM Motors | High-speed mini gear motors for movement  |
 | Chassis + Wheels      | Robot frame and mobility                  |
 
----
+
 
 ## 🧪 Use Cases
 
@@ -45,7 +42,7 @@ At its core, the robot runs on a 12V battery pack and uses a Buck-Boost Converte
 * Low-power mobile robots
 * DIY hobby and maker projects
 
----
+
 
 ## 🛠 Future Ideas
 
